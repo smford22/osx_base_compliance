@@ -1,8 +1,8 @@
 name: osx_base_compliance
-title: InSpec Profile
-maintainer: The Authors
-copyright: The Authors
-copyright_email: you@example.com
+title: OSX Base Compliance
+maintainer: Scott Ford
+copyright: Scott Ford
+copyright_email: maintainers@chef.io
 license: Apache-2.0
-summary: An InSpec Compliance Profile
+summary: An InSpec Compliance Profile to test compliance settings on Mac OSX Endpoints
 version: 0.1.0
