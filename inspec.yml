@@ -5,4 +5,4 @@ copyright: Scott Ford
 copyright_email: maintainers@chef.io
 license: Apache-2.0
 summary: An InSpec Compliance Profile to test compliance settings on Mac OSX Endpoints
-version: 0.1.0
+version: 0.1.1
