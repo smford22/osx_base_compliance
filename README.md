@@ -1,3 +1,4 @@
-# Example InSpec Profile
+# OSX Base Compliance Profile
 
-This example shows the implementation of an InSpec [profile](../../docs/profiles.rst).
+This example shows how one could build a profile for testing the compliance
+settings of Mac OSX endpoints using Inspec.
